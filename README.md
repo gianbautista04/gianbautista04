@@ -34,7 +34,7 @@
 
 - **Web Development:** HTML, CSS, JavaScript, Laravel, Tailwind
 - **Database:** MySQL
-- **Other Tools:** Git, Bootstrap, REST APIs
+- **Other Tools:** Git, Visual Studio Code
 
 ---
 
