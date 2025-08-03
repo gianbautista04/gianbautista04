@@ -1,16 +1,47 @@
-## Hi there 👋
+![Header](https://img.shields.io/badge/Gian%20Bautista-BSIT%20Student-purple?style=for-the-badge)
 
-<!--
-**gianbautista04/gianbautista04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center" style="color: #800080;">
+  Hi, I'm Gian Bautista! 👋
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Developer-Laravel-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/BSIT-Graduating-purple?style=flat-square">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 About Me
+
+- **Graduating BSIT Student** passionate about technology and problem-solving.
+- Focused on **Web Development**, with hands-on experience using **Laravel**.
+- Always eager to learn new frameworks, tools, and best practices.
+
+---
+
+## 🚀 Featured Project
+
+### 🟣 Online Enrollment System (Capstone)
+
+> A comprehensive web application designed to streamline and simplify the enrollment process for educational institutions. Built with **Laravel**, featuring secure authentication, real-time updates, and user-friendly interfaces.
+
+- Role: Project Leader, Backend Developer
+- Tech Stack: Laravel, MySQL, Bootstrap (customized with purple accents)
+- [Project Demo/Repo](#) <!-- Add your project link if available! -->
+
+---
+
+## 🛠️ Skills
+
+- **Web Development:** HTML, CSS, JavaScript, Laravel, Tailwind
+- **Database:** MySQL
+- **Other Tools:** Git, Bootstrap, REST APIs
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/gianbautista/)  
+<!-- Add more social links if you wish -->
+
+---
