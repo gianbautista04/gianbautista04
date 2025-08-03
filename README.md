@@ -41,6 +41,7 @@
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/gianbautista/)  
+- [Portfolio](https://gianbautista.vercel.app/)
 <!-- Add more social links if you wish -->
 
 ---
