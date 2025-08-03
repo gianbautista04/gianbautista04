@@ -27,7 +27,6 @@
 
 - Role: Project Leader, Backend Developer
 - Tech Stack: Laravel, MySQL, Bootstrap (customized with purple accents)
-- [Project Demo/Repo](#) <!-- Add your project link if available! -->
 
 ---
 
