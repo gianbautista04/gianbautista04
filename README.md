@@ -26,7 +26,7 @@
 > A comprehensive web application designed to streamline and simplify the enrollment process for educational institutions. Built with **Laravel**, featuring secure authentication, real-time updates, and user-friendly interfaces.
 
 - Role: Project Leader, Backend Developer
-- Tech Stack: Laravel, MySQL, Bootstrap (customized with purple accents)
+- Tech Stack: Laravel, MySQL, Bootstrap
 
 ---
 
