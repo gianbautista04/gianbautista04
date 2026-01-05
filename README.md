@@ -1,47 +1,82 @@
-![Header](https://img.shields.io/badge/Gian%20Bautista-BSIT%20Student-purple?style=for-the-badge)
+![Header](https://img.shields.io/badge/Gian%20Bautista-BSIT%20Graduate-purple?style=for-the-badge)
 
-<h1 align="center" style="color: #800080;">
-  Hi, I'm Gian Bautista! 👋
-</h1>
+<h1 align="center" style="color: #800080;">Hi, I'm Gian Bautista! 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Developer-Laravel-purple?style=flat-square">
-  <img src="https://img.shields.io/badge/BSIT-Graduating-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/BSIT-Cum%20Laude-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/UI%2FUX-Responsive%20Design-purple?style=flat-square">
 </p>
 
 ---
 
 ## 🎓 About Me
 
-- **Graduating BSIT Student** passionate about technology and problem-solving.
-- Focused on **Web Development**, with hands-on experience using **Laravel**.
-- Always eager to learn new frameworks, tools, and best practices.
+Cum Laude graduate with a **Bachelor of Science in Information Technology** from the Polytechnic University of the Philippines. I am a results-driven **Web Developer** with hands-on experience in both frontend and backend development, UI/UX design, and building secure, user-centered web applications.
+
+I enjoy turning ideas into functional systems and continuously improving my skills through real-world projects.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🟣 Online Enrollment System (Capstone)
+### 🟣 Online Enrollment System (Capstone Project)
 
-> A comprehensive web application designed to streamline and simplify the enrollment process for educational institutions. Built with **Laravel**, featuring secure authentication, real-time updates, and user-friendly interfaces.
+> A full-stack web application developed for *The Learning Place* to streamline student enrollment and administrative processes.
 
-- Role: Project Leader, Backend Developer
-- Tech Stack: Laravel, MySQL, Bootstrap
+* Role: Project Leader, Backend Developer, UI/UX Designer
+* Features: Secure authentication, enrollment workflows, admin dashboards, database-driven records
+* Tech Stack: Laravel, MySQL, Tailwind CSS, HTML, JavaScript
+* Presented at NASRECON 2025
+
+### 🟣 One Stop Shop Platform (Partial)
+
+> A service marketplace platform concept for multiple service providers.
+
+* Focus: UI/UX Design, Backend Structure
+* Tech Stack: Laravel, MySQL
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-- **Web Development:** HTML, CSS, JavaScript, Laravel, Tailwind
-- **Database:** MySQL
-- **Other Tools:** Git, Visual Studio Code
+**Languages & Frameworks**
+
+* HTML, CSS, JavaScript
+* Laravel
+* Tailwind CSS
+
+**Databases**
+
+* MySQL
+
+**Tools & Platforms**
+
+* Git & GitHub
+* Visual Studio Code
+* ClickUp
+
+---
+
+## 💼 Experience Highlights
+
+* **Virtual Assistant – Petrichor Labs**
+
+  * Project coordination, admin automation, task delegation using ClickUp
+  * Assisted in hiring and documentation workflows
+
+* **IT Intern – The Learning Place**
+
+  * Web page development, branding design, presentations, and multimedia support
 
 ---
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/gianbautista/)  
-- [Portfolio](https://gianbautista.vercel.app/)
-<!-- Add more social links if you wish -->
+* LinkedIn: [https://www.linkedin.com/in/gianbautista/](https://www.linkedin.com/in/gianbautista/)
+* Portfolio: [https://gianbautista.vercel.app/](https://gianbautista.vercel.app/)
+* GitHub: [https://github.com/gianbautista04](https://github.com/gianbautista04)
 
 ---
+
+> "Building simple, secure, and scalable solutions—one project at a time."
